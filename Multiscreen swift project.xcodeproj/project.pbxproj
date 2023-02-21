@@ -12,6 +12,7 @@
 		B130680F299C25CB00D48A57 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B130680E299C25CB00D48A57 /* Assets.xcassets */; };
 		B1306813299C25CB00D48A57 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1306812299C25CB00D48A57 /* Preview Assets.xcassets */; };
 		B154B084299C2A1E0045FFC2 /* Homepage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B154B083299C2A1E0045FFC2 /* Homepage.swift */; };
+		B1EC9BA329A50CE00085512B /* Sounds.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1EC9BA229A50CE00085512B /* Sounds.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B1306810299C25CB00D48A57 /* Multiscreen_swift_project.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Multiscreen_swift_project.entitlements; sourceTree = "<group>"; };
 		B1306812299C25CB00D48A57 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B154B083299C2A1E0045FFC2 /* Homepage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homepage.swift; sourceTree = "<group>"; };
+		B1EC9BA229A50CE00085512B /* Sounds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sounds.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				B130680A299C25CA00D48A57 /* Multiscreen_swift_projectApp.swift */,
 				B130680C299C25CA00D48A57 /* Welcome.swift */,
 				B154B083299C2A1E0045FFC2 /* Homepage.swift */,
+				B1EC9BA229A50CE00085512B /* Sounds.swift */,
 				B130680E299C25CB00D48A57 /* Assets.xcassets */,
 				B1306810299C25CB00D48A57 /* Multiscreen_swift_project.entitlements */,
 				B1306811299C25CB00D48A57 /* Preview Content */,
@@ -145,6 +148,7 @@
 				B130680D299C25CA00D48A57 /* Welcome.swift in Sources */,
 				B154B084299C2A1E0045FFC2 /* Homepage.swift in Sources */,
 				B130680B299C25CA00D48A57 /* Multiscreen_swift_projectApp.swift in Sources */,
+				B1EC9BA329A50CE00085512B /* Sounds.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

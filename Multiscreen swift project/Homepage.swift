@@ -15,11 +15,16 @@ struct homepage: View {
                     Welcome()
                 } label: {
                     Text("Welcome")
+                };
+                NavigationLink{
+                    Sounds()
+                } label: {
+                    Text("Sound")
+                    }
                 }
-            }
-        }.navigationTitle("Homepage")
+            }.navigationTitle("Homepage")
+        }
     }
-}
 
 struct Homepage_Preview: PreviewProvider {
   static var previews: some View {
